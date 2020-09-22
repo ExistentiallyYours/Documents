@@ -1,0 +1,49 @@
+Projex
+
+Corrie:
++ Requirements
+    - Final Results on Github 
+    - Printable - Layer by layer
+    - Uses easily accesible materials
+    - 65% with Cardboard plate
+    - As many components as possible from cardboard
+    - Dampening May be from other packing materials 
+    
+Retro-fitted Typewriter:
++ Hand-wire?
++ Individual Switches?
+    - Mechanical or contact?
+
+    
+Aluminum Can Keyboard:
++ Can Version
++ Forge Version
+    
+ Artisn't [Credit to iwanoo for the name]   :
+  - existUWU
+
+Twitch chat designs a keycap set:
+  1 - Vote on Profile > Import into Blender > Vote on font(?)
+        - KAT
+        - KAM
+        - DSA
+        - XDA
+        - OSA
+        - SA
+        - OEM
+        - MT3
+        - Cherry
+        
+  2 - Number of unique colors (Max 12)
+  3 - Which unique colors to use (Based on #2)
+  4 - Novelties (Limit 5)
+  5 - Kitting
+  6 - Render Boards
+  7 - Render Layouts
+  
+  
+  RETRO GAMES NIGHT [Date: TBD]
+   - 
+   - 
+   - 
+   
