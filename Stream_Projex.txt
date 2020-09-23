@@ -1,6 +1,6 @@
 Projex
 
-Corrie:
+Corrie V1:
 + Requirements
     - Final Results on Github 
     - Printable - Layer by layer
@@ -14,13 +14,20 @@ Retro-fitted Typewriter:
 + Individual Switches?
     - Mechanical or contact?
 
-    
 Aluminum Can Keyboard:
-+ Can Version
-+ Forge Version
++ Cut can version
++ Forge and cast version
     
- Artisn't [Credit to iwanoo for the name]   :
+Marbleized Keyboard:
++ Literally marble
++ Black AND White Marble
+    - Integrate Gold?
+    
+ Artisn't [Credit to iwanoo for the name]:
   - existUWU
+  - Voidling
+  
+Resin DICE!
 
 Twitch chat designs a keycap set:
   1 - Vote on Profile > Import into Blender > Vote on font(?)
@@ -33,13 +40,13 @@ Twitch chat designs a keycap set:
         - OEM
         - MT3
         - Cherry
-        
-  2 - Number of unique colors (Max 12)
-  3 - Which unique colors to use (Based on #2)
-  4 - Novelties (Limit 5)
-  5 - Kitting
-  6 - Render Boards
-  7 - Render Layouts
+  2 - Vote on Legends > Sublegends > Languages
+  3 - Number of unique colors (Max 12)
+  4 - Which unique colors to use (Based on #3)
+  5 - Novelties (Limit 5)
+  6 - Kitting
+  7 - Render Boards
+  8 - Render Layouts
   
   
   RETRO GAMES NIGHT [Date: TBD]
